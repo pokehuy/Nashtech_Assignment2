@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huy\\Desktop\\coding\\Rookies\\c#2\\c#2.csproj": {}
+    "C:\\Users\\huy\\Desktop\\coding\\Rookies\\cs2\\c#2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huy\\Desktop\\coding\\Rookies\\c#2\\c#2.csproj": {
+    "C:\\Users\\huy\\Desktop\\coding\\Rookies\\cs2\\c#2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huy\\Desktop\\coding\\Rookies\\c#2\\c#2.csproj",
+        "projectUniqueName": "C:\\Users\\huy\\Desktop\\coding\\Rookies\\cs2\\c#2.csproj",
         "projectName": "c#2",
-        "projectPath": "C:\\Users\\huy\\Desktop\\coding\\Rookies\\c#2\\c#2.csproj",
+        "projectPath": "C:\\Users\\huy\\Desktop\\coding\\Rookies\\cs2\\c#2.csproj",
         "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huy\\Desktop\\coding\\Rookies\\c#2\\obj\\",
+        "outputPath": "C:\\Users\\huy\\Desktop\\coding\\Rookies\\cs2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
